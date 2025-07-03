@@ -20,9 +20,6 @@
 🌱 I’m currently learning  
 **Jetpack Compose, Python , Supabase, 3D visuals**  
 
-💬 Ask me about  
-**React, Vue.js, GSAP, Kotlin**  
-
 ⚡ Fun fact  
 **I think I'm funny... even my ESP32 sensors agree 😄**
 
