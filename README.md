@@ -17,7 +17,7 @@
 🔭 I’m currently working on a lot of projects 
  
 
-🌱 I’m currently learning  
+🌱 learning is a process and I am learning definately.   
 **Jetpack Compose, Python , Supabase, 3D visuals**  
 
 ⚡ Fun fact  
