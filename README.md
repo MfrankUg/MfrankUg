@@ -73,6 +73,8 @@
 </div>
 
 <br/><br/>
+[![committers.top badge](https://user-badge.committers.top/uganda_public/MfrankUg.svg)](https://user-badge.committers.top/uganda_public/MfrankUg)
+
 
 <hr/>
 <h1 align="center">
