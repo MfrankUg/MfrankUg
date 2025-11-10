@@ -25,7 +25,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<h2 align="center"> Languages, Frameworks & Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,figma,vscode,github,git,bootstrap" /> <a href="https://skillcons.dev">
@@ -36,7 +36,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My GitHub Contributions 🐍</h2>
+  <h2> My GitHub Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MfrankUg/MfrankUg/output/github-contribution-grid-snake.svg" />
 
@@ -46,7 +46,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center"> GitHub Stats </h2>
 <br/>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=MfrankUg&theme=react&border_radius=10" alt="streak stats"/>
