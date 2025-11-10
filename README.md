@@ -7,23 +7,6 @@
 
 <br/>
 
-<div align="center">
-
-
-
-
-
-🔭 I’m currently working on a lot of projects 
- 
-
-🌱 learning is a process and I am learning definately.   
-**Jetpack Compose, Python , Supabase, 3D visuals**  
-
-⚡ Fun fact  
-**I think I'm funny... even my ESP32 sensors agree 😄**
-
-</div>
-
 <br/>
 
 
