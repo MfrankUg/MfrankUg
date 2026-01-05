@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/frank-muhindo-b269611b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://frankmuhn.vercel.app" target="_blank">
+  <a href="https://frankmuhindo.online" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
