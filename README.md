@@ -29,8 +29,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,figma,vscode,github,git,bootstrap" /> <a href="https://skillcons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,flutter,nodejs,express,firebase,supabase,mysql,python,figma,js" /></a><br>
-</div>
 
 <br/>
 <hr/>
