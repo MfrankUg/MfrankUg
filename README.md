@@ -23,15 +23,12 @@
   </a>
 </div>
 
-<hr/>
-
 <h2 align="center"> Languages, Frameworks & Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,vue,tailwind,html,css,figma,vscode,github,git,bootstrap" /> <a href="https://skillcons.dev">
 
 <br/>
-<hr/>
 
 <div align="center">
   <h2> My GitHub Contributions </h2>
