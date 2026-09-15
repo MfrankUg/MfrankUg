@@ -1,17 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MfrankUg.MfrankUg" />
 
-<h1 align="center">
+<h4>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Frank+Muhindo!" />
-</h1>
-<h3 align="center">A passionate UX Designer , Network Engineer and  Dev from Uganda</h3>
+</h4>
+<h5>A passionate UX Designer , Network Engineer and  Dev from Uganda</h5>
 
-<br/>
-
-<br/>
-
-
-
-<div align="center"> 
+<div> 
   <a href="mailto:frank.dev256@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -23,27 +17,21 @@
   </a>
 </div>
 
-<h2 align="center"> Languages, Frameworks & Tools </h2>
+<h5> Languages, Frameworks & Tools </h5>
 <br/>
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=flutter,vue,tailwind,html,css,figma,vscode,github,git,bootstrap" /> <a href="https://skillcons.dev">
 
-<br/>
-
-<div align="center">
-  <h2> My GitHub Contributions </h2>
+<div>
+  <h5> My GitHub Contributions </h5>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MfrankUg/MfrankUg/output/github-contribution-grid-snake.svg" />
 
 
 </div>
 
-<br/>
-<hr/>
-
 <br/><br/>
 [![committers.top badge](https://user-badge.committers.top/uganda_public/MfrankUg.svg)](https://user-badge.committers.top/uganda_public/MfrankUg)
-
 
 <hr/>
 
