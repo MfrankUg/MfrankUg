@@ -18,19 +18,14 @@
 </div>
 
 <h5> Languages, Frameworks & Tools </h5>
-<br/>
 <div>
     <img src="https://skillicons.dev/icons?i=flutter,vue,tailwind,html,css,figma,vscode,github,git,bootstrap" /> <a href="https://skillcons.dev">
-
 <div>
   <h5> My GitHub Contributions </h5>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MfrankUg/MfrankUg/output/github-contribution-grid-snake.svg" />
-
-
 </div>
 
-<br/><br/>
+<br/> <br/>
 [![committers.top badge](https://user-badge.committers.top/uganda_public/MfrankUg.svg)](https://user-badge.committers.top/uganda_public/MfrankUg)
 
 <hr/>
